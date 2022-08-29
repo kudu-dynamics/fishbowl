@@ -1,0 +1,4 @@
+pandas==1.0.3
+pyarrow==0.17.0
+python-snappy==0.5.4
+u-msgpack-python==2.6.0
